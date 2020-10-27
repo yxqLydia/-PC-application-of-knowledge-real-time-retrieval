@@ -1,0 +1,6 @@
+{
+  "communicationAddressKnow": "http://192.168.88.214:10001/",
+  "communicationKnowledgeCluster": "http://192.168.88.214:30001/",
+  "communicationTimeout": 30000,
+  "PageSize": 10
+}

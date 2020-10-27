@@ -1,0 +1,9 @@
+[2019-07-05T15:46:13.468] [ERROR] logFile - 智能检索答案请求失败TypeError: Cannot read property 'SYS_HEAD' of undefined
+[2019-07-05T15:46:21.592] [ERROR] logFile - 智能检索答案请求失败TypeError: Cannot read property 'SYS_HEAD' of undefined
+[2019-07-05T15:47:31.457] [ERROR] logFile - 智能检索答案请求失败TypeError: Cannot read property 'SYS_HEAD' of undefined
+[2019-07-05T15:49:47.763] [ERROR] logFile - 检索答案请求失败TypeError: Cannot read property 'SYS_HEAD' of undefined
+[2019-07-05T15:53:45.203] [ERROR] logFile - 智能检索答案请求失败TypeError: Cannot read property 'SYS_HEAD' of undefined
+[2019-07-05T15:55:53.345] [INFO] logFile - RestoreWindow
+[2019-07-05T15:55:56.217] [INFO] logFile - HideWindow
+[2019-07-08T15:56:28.942] [INFO] logFile - 最小化
+[2019-07-08T15:56:41.088] [INFO] logFile - 最小化
