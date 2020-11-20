@@ -206,7 +206,7 @@ export default {
     console.log('文件名：' + fileN)
     fileNotExisted(fileN)
     let filemd5 = md5File('./logs/access.txt');
-    console.log("filemd5",filemd5);
+    console.log('filemd5', filemd5);
   },
   data() {
     return {
